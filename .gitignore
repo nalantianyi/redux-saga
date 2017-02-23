@@ -35,3 +35,7 @@ es
 
 # docs generated files
 _book
+
+
+dist
+.idea
